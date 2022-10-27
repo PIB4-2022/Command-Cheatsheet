@@ -11,7 +11,8 @@
 $ command                  # comment
 ```
 
-Example : Jasmine-bash.md
+Example : `Jasmine-bash.md` file.
+Content: 
 
 ```bash
 ## Print command
