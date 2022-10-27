@@ -8,18 +8,18 @@
 ### Recommended format
 
 ```
-$ command              # comment
+$ command                  # comment
 ```
 
 Example : Jasmine-bash.md
 
 ```bash
 ## Print command
-$ echo "Rice" > sushi.txt # Print "Rice" string into sushi.txt file, replacing all content
-$ echo "Salmon" >> suchi.txt # Print "Salmon" string into suchi.txt file, appending to content
+$ echo "Rice" > sushi.txt               # Print "Rice" string into sushi.txt file, replacing all content
+$ echo "Salmon" >> suchi.txt            # Print "Salmon" string into suchi.txt file, appending to content
 
 ## Replace content command
-sed -i 's/almon/ardine/g' suchi.txt # Replace all (g) occurence of "almon" by "ardine" in suchi.txt
+sed -i 's/almon/ardine/g' suchi.txt     # Replace all (g) occurence of "almon" by "ardine" in suchi.txt
 ```
 
 ### Aim
