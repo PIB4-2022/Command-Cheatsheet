@@ -1,7 +1,7 @@
-# Command-Cheet-Sheat
+# Command-Cheatsheet
 
 - [x] Create a github shared repository for Command cheatsheets
-- [ ] Each student creates her/his files as `{GithubPseudo}-{focus}.ext`. Example: `Jasmine-bash.md` or `Jasmine.md`.
+- [ ] Each student creates her/his files as `{GithubPseudo}-{focus}.ext`.<br>Example: `Jasmine-bash.md` or `Jasmine.md`.
 - [ ] Each student then share in it his/her favorite commands and notes on a clean, minimalist format
 - [ ] Learn make
 
